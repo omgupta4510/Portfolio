@@ -4,47 +4,47 @@ const items = [
     {
         id:1,
         title:"HTML",
-        image:"/html5.png"
+        image:"html5.png"
     },
     {
         id:2,
         title:"JavaSript",
-        image:"/javascript.png"
+        image:"javascript.png"
     },
     {
         id:3,
         title:"CSS",
-        image:"/css.png"
+        image:"css.png"
     },
     {
         id:4,
         title:"React",
-        image:"/react.png"
+        image:"react.png"
     },
     {
         id:5,
         title:"NodeJs",
-        image:"/nodejs.png"
+        image:"nodejs.png"
     },
     {
         id:6,
         title:"Express",
-        image:"/express.png"
+        image:"express.png"
     },
     {
         id:7,
         title:"MongoDB",
-        image:"/mongodb.png"
+        image:"mongodb.png"
     },
     {
         id:8,
         title:"Postman",
-        image:"/postman.png"
+        image:"postman.png"
     },
     {
         id:9,
         title:"Prisma",
-        image:"/prisma.png"
+        image:"prisma.png"
     },
 ]
 const Skill = ({item}) => {

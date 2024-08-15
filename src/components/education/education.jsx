@@ -41,7 +41,7 @@ const Education = () => {
       </motion.div>
       <motion.div className="titleContainer" variants={variants}>
         <div className="title">
-          <img src="/people.webp" alt="" />
+          <img src="people.webp" alt="" />
           <h1>
             <motion.b whileHover={{color:"orange"}}>MY</motion.b> Education
           </h1>
